@@ -1,0 +1,32 @@
+State=AAAA/wAAAAD9AAAAAAAABQAAAAJJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAABxf////8AAAAAAAAAAA==
+StatusBar=Disabled
+eDP-1 Height 1920x1080=661
+eDP-1 Width 1920x1080=1280
+eDP-1 XPosition 1920x1080=593
+eDP-1 YPosition 1920x1080=261
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[FileLocation]
+scrollbackUseCacheLocation=true
+scrollbackUseSystemLocation=false
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABCIAAAJ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1536x864=632
+eDP-1 Height 1920x1080=610
+eDP-1 Width 1536x864=1058
+eDP-1 Width 1920x1080=860
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1536x864=186
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1536x864=127
+eDP-1 YPosition 1920x1080=29
