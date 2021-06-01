@@ -8,7 +8,7 @@ Recent File List Entry Count=10
 Restore Window Configuration=true
 Save Meta Infos=true
 Show Full Path in Title=false
-Show Menu Bar=true
+Show Menu Bar=false
 Show Status Bar=true
 Show Tab Bar=true
 Show Tabs Close Button=true
@@ -125,9 +125,6 @@ KonsoleEscKeyExceptions=vi,vim,nvim
 RemoveExtension=false
 RunPrefix=
 SetEditor=false
-
-[MainWindow]
-eDP-1 Window-Maximized 1536x864=true
 
 [filetree]
 editShade=183,220,246

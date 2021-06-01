@@ -1,22 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Java
+Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Java
+Mode=Normal
 Mode Set By User=false
-URL=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-
-[Document 1]
-Bookmarks=
-Encoding=UTF-8
-Highlighting=Java
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Java
-Mode Set By User=false
-URL=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
+URL=
 
 [Kate Plugins]
 cuttlefishplugin=false
@@ -47,7 +37,7 @@ textfilterplugin=true
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,1506,200
+Kate-MDI-H-Splitter=200,610,200
 Kate-MDI-Sidebar-0-Splitter=0,0,0,0
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
@@ -86,51 +76,33 @@ Kate-MDI-ToolView-output-Persistent=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Sidebar-Position=0
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=150,739,200
-State=AAAA/wAAAAD9AAAAAAAABgAAAAMBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Kate-MDI-V-Splitter=150,450,200
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1 Window-Maximized 1536x864=true
-eDP-1 XPosition 1536x864=0
-eDP-1 YPosition 1536x864=30
+eDP-1 XPosition 1536x864=287
+eDP-1 YPosition 1536x864=218
 
 [MainWindow0 Settings]
-State=AAAA/wAAAAD9AAAAAAAABgAAAAMBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-WindowState=10
-eDP-1 Window-Maximized 1536x864=true
-eDP-1 XPosition 1536x864=0
-eDP-1 YPosition 1536x864=30
+WindowState=8
+eDP-1 XPosition 1536x864=287
+eDP-1 YPosition 1536x864=218
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=1506
+Sizes=610
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-Count=2
-Documents=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java,file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-View 0=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-View 1=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-
-[MainWindow0-ViewSpace 0 file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java]
-CursorColumn=0
-CursorLine=0
-Dynamic Word Wrap=true
-JumpList=
-TextFolding=[]
-ViMarks=
-
-[MainWindow0-ViewSpace 0 file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java]
-CursorColumn=3
-CursorLine=23
-Dynamic Word Wrap=true
-JumpList=
-TextFolding=[]
-ViMarks=
+Active View=
+Count=1
+Documents=\\0
 
 [Open Documents]
-Count=2
+Count=1
 
 [Open MainWindows]
 Count=1
