@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=systemd unit
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=systemd unit
 Mode Set By User=false
-URL=
+URL=file:///home/djt/Documents/redis.service
 
 [Kate Plugins]
 cuttlefishplugin=false
@@ -37,7 +37,7 @@ textfilterplugin=true
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,610,200
+Kate-MDI-H-Splitter=200,1506,200
 Kate-MDI-Sidebar-0-Splitter=0,0,0,0
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
@@ -76,30 +76,41 @@ Kate-MDI-ToolView-output-Persistent=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Sidebar-Position=0
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=150,450,200
+Kate-MDI-V-Splitter=150,769,200
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1 XPosition 1536x864=287
-eDP-1 YPosition 1536x864=218
+eDP-1 Window-Maximized 1536x864=true
+eDP-1 XPosition 1536x864=0
+eDP-1 YPosition 1536x864=30
 
 [MainWindow0 Settings]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-WindowState=8
-eDP-1 XPosition 1536x864=287
-eDP-1 YPosition 1536x864=218
+WindowState=10
+eDP-1 Window-Maximized 1536x864=true
+eDP-1 XPosition 1536x864=0
+eDP-1 YPosition 1536x864=30
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=610
+Sizes=1506
 
 [MainWindow0-ViewSpace 0]
-Active View=
+Active View=file:///home/djt/Documents/redis.service
 Count=1
-Documents=\\0
+Documents=file:///home/djt/Documents/redis.service
+View 0=file:///home/djt/Documents/redis.service
+
+[MainWindow0-ViewSpace 0 file:///home/djt/Documents/redis.service]
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
 
 [Open Documents]
 Count=1
@@ -140,23 +151,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Desktop/j技术描述.txt
-File10[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-File2[$e]=$HOME/Desktop/2.txt
-File3[$e]=$HOME/Documents/clash.service
-File4[$e]=$HOME/Documents/Docker-use.txt
-File5[$e]=$HOME/Documents/bbs/pom.xml
-File6[$e]=$HOME/Documents/bbs/src/思路.txt
-File7[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
-File8[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
-File9[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-Name1[$e]=j技术描述.txt
-Name10[$e]=CmtGroupCtl.java
-Name2[$e]=2.txt
-Name3[$e]=clash.service
-Name4[$e]=Docker-use.txt
-Name5[$e]=pom.xml
-Name6[$e]=思路.txt
-Name7[$e]=email.properties
-Name8[$e]=jdbc.properties
-Name9[$e]=UserController.java
+File1[$e]=$HOME/Documents/clash.service
+File10[$e]=$HOME/Documents/redis.service
+File2[$e]=$HOME/Documents/Docker-use.txt
+File3[$e]=$HOME/Documents/bbs/pom.xml
+File4[$e]=$HOME/Documents/bbs/src/思路.txt
+File5[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
+File6[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
+File7[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
+File8[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
+File9[$e]=$HOME/Documents/v2ray-config.json
+Name1[$e]=clash.service
+Name10[$e]=redis.service
+Name2[$e]=Docker-use.txt
+Name3[$e]=pom.xml
+Name4[$e]=思路.txt
+Name5[$e]=email.properties
+Name6[$e]=jdbc.properties
+Name7[$e]=UserController.java
+Name8[$e]=CmtGroupCtl.java
+Name9[$e]=v2ray-config.json

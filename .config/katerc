@@ -126,6 +126,9 @@ RemoveExtension=false
 RunPrefix=
 SetEditor=false
 
+[MainWindow]
+eDP-1 Window-Maximized 1536x864=true
+
 [filetree]
 editShade=183,220,246
 listMode=false

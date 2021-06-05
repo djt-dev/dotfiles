@@ -129,3 +129,27 @@ Mode=systemd unit
 Mode Set By User=false
 Time=2021,5,26,11,6,28.47
 URL=file:///home/djt/Documents/clash.service
+
+[file:///home/djt/Documents/redis.service]
+Bookmarks=
+Checksum=0ba0893b15f5d7139ff8f30987dca12f9b424fb5
+Encoding=UTF-8
+Highlighting=systemd unit
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=systemd unit
+Mode Set By User=false
+Time=2021,6,1,23,13,5.373
+URL=file:///home/djt/Documents/redis.service
+
+[file:///home/djt/Documents/v2ray-config.json]
+Bookmarks=
+Checksum=2837cefe7f552d3d4b5b5def04161adaf08ae213
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2021,6,1,23,7,14.350999999999999
+URL=file:///home/djt/Documents/v2ray-config.json
