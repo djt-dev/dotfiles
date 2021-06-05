@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=systemd unit
+Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=systemd unit
+Mode=Normal
 Mode Set By User=false
-URL=file:///home/djt/Documents/redis.service
+URL=file:///home/djt/wget-log
 
 [Kate Plugins]
 cuttlefishplugin=false
@@ -99,12 +99,12 @@ Orientation=1
 Sizes=1506
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/djt/Documents/redis.service
+Active View=file:///home/djt/wget-log
 Count=1
-Documents=file:///home/djt/Documents/redis.service
-View 0=file:///home/djt/Documents/redis.service
+Documents=file:///home/djt/wget-log
+View 0=file:///home/djt/wget-log
 
-[MainWindow0-ViewSpace 0 file:///home/djt/Documents/redis.service]
+[MainWindow0-ViewSpace 0 file:///home/djt/wget-log]
 CursorColumn=0
 CursorLine=0
 Dynamic Word Wrap=true
@@ -151,23 +151,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/clash.service
-File10[$e]=$HOME/Documents/redis.service
-File2[$e]=$HOME/Documents/Docker-use.txt
-File3[$e]=$HOME/Documents/bbs/pom.xml
-File4[$e]=$HOME/Documents/bbs/src/思路.txt
-File5[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
-File6[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
-File7[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-File8[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-File9[$e]=$HOME/Documents/v2ray-config.json
-Name1[$e]=clash.service
-Name10[$e]=redis.service
-Name2[$e]=Docker-use.txt
-Name3[$e]=pom.xml
-Name4[$e]=思路.txt
-Name5[$e]=email.properties
-Name6[$e]=jdbc.properties
-Name7[$e]=UserController.java
-Name8[$e]=CmtGroupCtl.java
-Name9[$e]=v2ray-config.json
+File1[$e]=$HOME/Documents/Docker-use.txt
+File10[$e]=$HOME/wget-log
+File2[$e]=$HOME/Documents/bbs/pom.xml
+File3[$e]=$HOME/Documents/bbs/src/思路.txt
+File4[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
+File5[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
+File6[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
+File7[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
+File8[$e]=$HOME/Documents/v2ray-config.json
+File9[$e]=$HOME/Documents/redis.service
+Name1[$e]=Docker-use.txt
+Name10[$e]=wget-log
+Name2[$e]=pom.xml
+Name3[$e]=思路.txt
+Name4[$e]=email.properties
+Name5[$e]=jdbc.properties
+Name6[$e]=UserController.java
+Name7[$e]=CmtGroupCtl.java
+Name8[$e]=v2ray-config.json
+Name9[$e]=redis.service
