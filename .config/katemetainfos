@@ -1,38 +1,62 @@
-[file:///home/djt/1]
+[file:///home/djt/1.txt]
 Bookmarks=
-Checksum=97f54a1829c01f4f0dfe2c53be0d8c7514de4f7b
+Checksum=534fab53d06d459ac8662f406639cf05937f28bd
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,5,20,1,36,42.22
-URL=file:///home/djt/1
+Time=2021,7,7,2,40,49.335
+URL=file:///home/djt/1.txt
 
-[file:///home/djt/Desktop/2.txt]
+[file:///home/djt/Desktop/.directory]
 Bookmarks=
-Checksum=f954b9c4f9a1733e68827f11210893d06aea5811
+Checksum=11fe1e7bc02779014dc283072ccfdb8df1bd8555
 Encoding=UTF-8
-Highlighting=None
+Highlighting=.desktop
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=.desktop
 Mode Set By User=false
-Time=2021,5,26,11,6,12.249
-URL=file:///home/djt/Desktop/2.txt
+Time=2021,7,7,2,30,47.706
+URL=file:///home/djt/Desktop/.directory
 
-[file:///home/djt/Desktop/j技术描述.txt]
+[file:///home/djt/Desktop/sub.txt]
 Bookmarks=
-Checksum=155879a95cc634b4df3b3e443aa5b53a9b210285
+Checksum=a3f64ea057eb469a5eaae01c172eee0c0be78846
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,5,24,3,8,17.699
-URL=file:///home/djt/Desktop/j技术描述.txt
+Time=2021,7,7,2,41,32.886
+URL=file:///home/djt/Desktop/sub.txt
+
+[file:///home/djt/Desktop/杂七杂八未分类-20200630T084914Z-001/杂七杂八未分类/mysql命令.txt]
+Bookmarks=
+Checksum=1e06bfe02215908d0e4b030a2566b153b1192838
+Encoding=GB18030
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,6,13,9,45.984
+URL=file:///home/djt/Desktop/杂七杂八未分类-20200630T084914Z-001/杂七杂八未分类/mysql命令.txt
+
+[file:///home/djt/Dockerfile/Dockerfile2]
+Bookmarks=
+Checksum=c93c42ba0b098dc32b13a260dcd7d8f3b89da536
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,3,15,35,30.481
+URL=file:///home/djt/Dockerfile/Dockerfile2
 
 [file:///home/djt/Documents/Docker-use.txt]
 Bookmarks=
@@ -43,125 +67,77 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,5,26,11,6,54.692
+Time=2021,6,29,14,37,41.017
 URL=file:///home/djt/Documents/Docker-use.txt
 
-[file:///home/djt/Documents/bbs/pom.xml]
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt]
 Bookmarks=
-Checksum=e70bb2351439ceef183e3f597e423acd3e37050e
-Encoding=UTF-8
-Highlighting=XML
-Highlighting Set By User=false
-Indentation Mode=xml
-Mode=XML
-Mode Set By User=false
-Time=2021,5,26,11,8,17.541
-URL=file:///home/djt/Documents/bbs/pom.xml
-
-[file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java]
-Bookmarks=
-Checksum=e60f9ad86d7dc31ea263e836c63179fbea06c698
-Encoding=UTF-8
-Highlighting=Java
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Java
-Mode Set By User=false
-Time=2021,5,26,11,25,4.375
-URL=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-
-[file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java]
-Bookmarks=
-Checksum=b9fa406aad85c62f420c1fdada66afbbad280fd9
-Encoding=UTF-8
-Highlighting=Java
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Java
-Mode Set By User=false
-Time=2021,5,26,11,25,4.375
-URL=file:///home/djt/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-
-[file:///home/djt/Documents/bbs/src/main/resources/email.properties]
-Bookmarks=
-Checksum=38731cedeb1943a7ba12fbb83cdbc7305cf6db64
-Encoding=UTF-8
-Highlighting=Java Properties
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Java Properties
-Mode Set By User=false
-Time=2021,5,26,11,8,45.522
-URL=file:///home/djt/Documents/bbs/src/main/resources/email.properties
-
-[file:///home/djt/Documents/bbs/src/main/resources/jdbc.properties]
-Bookmarks=
-Checksum=3dee900336534c5b2b120a9951e70413b5832f0d
-Encoding=UTF-8
-Highlighting=Java Properties
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Java Properties
-Mode Set By User=false
-Time=2021,5,26,11,8,54.068
-URL=file:///home/djt/Documents/bbs/src/main/resources/jdbc.properties
-
-[file:///home/djt/Documents/bbs/src/思路.txt]
-Bookmarks=
-Checksum=efdc3e4dce05b955d4bc44832d12ad8f7673bd32
+Checksum=3e0aa83cd7a9a853c2ec9a70f5b7eef1cbb6b8ee
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,5,26,11,8,45.522
-URL=file:///home/djt/Documents/bbs/src/思路.txt
+Time=2021,6,21,1,52,28.005
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt
 
-[file:///home/djt/Documents/clash.service]
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/获取更多学习资源.url]
 Bookmarks=
-Checksum=d9f2c9e788fbffe98c18ab632b9ae1efac8f7538
-Encoding=UTF-8
-Highlighting=systemd unit
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=systemd unit
-Mode Set By User=false
-Time=2021,5,26,11,6,28.47
-URL=file:///home/djt/Documents/clash.service
-
-[file:///home/djt/Documents/redis.service]
-Bookmarks=
-Checksum=0ba0893b15f5d7139ff8f30987dca12f9b424fb5
-Encoding=UTF-8
-Highlighting=systemd unit
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=systemd unit
-Mode Set By User=false
-Time=2021,6,1,23,13,5.373
-URL=file:///home/djt/Documents/redis.service
-
-[file:///home/djt/Documents/v2ray-config.json]
-Bookmarks=
-Checksum=2837cefe7f552d3d4b5b5def04161adaf08ae213
-Encoding=UTF-8
-Highlighting=JSON
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=JSON
-Mode Set By User=false
-Time=2021,6,1,23,7,14.350999999999999
-URL=file:///home/djt/Documents/v2ray-config.json
-
-[file:///home/djt/wget-log]
-Bookmarks=
-Checksum=9d6e6b1721c605416373f047df25760c1379ae23
+Checksum=d7eea8b7742ff7a2e0be569730f78ade71d253d0
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,6,5,0,30,53.828
-URL=file:///home/djt/wget-log
+Time=2021,6,20,1,12,3.026
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/获取更多学习资源.url
+
+[file:///home/djt/public.gpg]
+Bookmarks=
+Checksum=362b04d23a5b995f41e0c306d67a28530b2ef672
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,6,17,1,2,21.812
+URL=file:///home/djt/public.gpg
+
+[file:///home/djt/smart.txt]
+Bookmarks=
+Checksum=8828d39544e2122f20f499cec0f3703ec35d7115
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,6,26,10,8,13.74
+URL=file:///home/djt/smart.txt
+
+[file:///run/media/djt/U/Desktop/sub.txt]
+Bookmarks=
+Checksum=499c67f84b95151ed87e10b14ec9daf053e54233
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,7,2,43,45.038
+URL=file:///run/media/djt/U/Desktop/sub.txt
+
+[mtp:/Pixel 3/Internal shared storage/Download/sub.txt]
+Bookmarks=
+Checksum=93f6140f1a2a90c226487d5e975d6918cef9f0d0
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,6,17,10,55,39.152
+URL=mtp:/Pixel 3/Internal shared storage/Download/sub.txt
