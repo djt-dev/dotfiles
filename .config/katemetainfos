@@ -1,3 +1,15 @@
+[file:///home/djt/.config/rslsync/rslsync.conf]
+Bookmarks=
+Checksum=1ebb9f65f2f9369d279caf4184c77e2493187136
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,19,4,7,58.884
+URL=file:///home/djt/.config/rslsync/rslsync.conf
+
 [file:///home/djt/1.txt]
 Bookmarks=
 Checksum=534fab53d06d459ac8662f406639cf05937f28bd
@@ -22,17 +34,41 @@ Mode Set By User=false
 Time=2021,7,7,2,30,47.706
 URL=file:///home/djt/Desktop/.directory
 
-[file:///home/djt/Desktop/sub.txt]
+[file:///home/djt/Desktop/j技术描述.txt]
 Bookmarks=
-Checksum=a3f64ea057eb469a5eaae01c172eee0c0be78846
+Checksum=155879a95cc634b4df3b3e443aa5b53a9b210285
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,7,7,2,41,32.886
+Time=2021,7,15,2,20,40.806
+URL=file:///home/djt/Desktop/j技术描述.txt
+
+[file:///home/djt/Desktop/sub.txt]
+Bookmarks=
+Checksum=499c67f84b95151ed87e10b14ec9daf053e54233
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,13,23,34,41.643
 URL=file:///home/djt/Desktop/sub.txt
+
+[file:///home/djt/Desktop/unrar -p]
+Bookmarks=
+Checksum=8d1c8b69c3fce7bea45c73efd06983e3c419a92f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,7,7,17,2,23.19
+URL=file:///home/djt/Desktop/unrar -p
 
 [file:///home/djt/Desktop/杂七杂八未分类-20200630T084914Z-001/杂七杂八未分类/mysql命令.txt]
 Bookmarks=
@@ -58,6 +94,18 @@ Mode Set By User=false
 Time=2021,7,3,15,35,30.481
 URL=file:///home/djt/Dockerfile/Dockerfile2
 
+[file:///home/djt/Documents/BacktoCN.yaml]
+Bookmarks=
+Checksum=ac5f89faf46b7a035af91636631cb2a5f1c02c70
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2021,7,13,23,47,35.057
+URL=file:///home/djt/Documents/BacktoCN.yaml
+
 [file:///home/djt/Documents/Docker-use.txt]
 Bookmarks=
 Checksum=c6136542242f637abda7e2675fabcc428d87f84b
@@ -69,6 +117,18 @@ Mode=Normal
 Mode Set By User=false
 Time=2021,6,29,14,37,41.017
 URL=file:///home/djt/Documents/Docker-use.txt
+
+[file:///home/djt/Downloads/fonts.conf]
+Bookmarks=
+Checksum=ebcd74059a99614891eb79f3080a236023fef0ca
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,15,2,11,11.574
+URL=file:///home/djt/Downloads/fonts.conf
 
 [file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt]
 Bookmarks=
@@ -82,29 +142,161 @@ Mode Set By User=false
 Time=2021,6,21,1,52,28.005
 URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt
 
-[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/获取更多学习资源.url]
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/pom.xml]
 Bookmarks=
-Checksum=d7eea8b7742ff7a2e0be569730f78ade71d253d0
-Encoding=UTF-8
-Highlighting=None
+Checksum=744e4bea4330daa90ef4681c5f03b70c50c85984
+Encoding=GB18030
+Highlighting=XML
 Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
+Indentation Mode=xml
+Mode=XML
 Mode Set By User=false
-Time=2021,6,20,1,12,3.026
-URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/获取更多学习资源.url
+Time=2021,7,7,23,43,26.704
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/pom.xml
 
-[file:///home/djt/public.gpg]
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/youfanshopuser/pom.xml]
 Bookmarks=
-Checksum=362b04d23a5b995f41e0c306d67a28530b2ef672
+Checksum=124d281f5d75191108e18ed3548e5ef74cdd0629
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,43,35.042
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/youfanshopuser/pom.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/youfanshopuser/src/main/java/com/youfan/control/UserControl.java]
+Bookmarks=
+Checksum=c47d2c16e998bb4ee8b9dfe1c59a422ae3f54038
+Encoding=ISO-8859-15
+Highlighting=Java
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Java
+Mode Set By User=false
+Time=2021,7,7,23,44,11.012
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/youfanshopuser/src/main/java/com/youfan/control/UserControl.java
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第57讲/youfanprofile/pom.xml]
+Bookmarks=
+Checksum=67f5c8c10f9b2de9dea8f19a2eb58bc2fccf55f3
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,41,45.04
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第57讲/youfanprofile/pom.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第57讲/youfanprofile/src/main/java/com/youfan/Test.java]
+Bookmarks=
+Checksum=953adcc2020bb40d032b82c4e0d288ddf3698773
+Encoding=UTF-8
+Highlighting=Java
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Java
+Mode Set By User=false
+Time=2021,7,7,23,43,15.398
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第57讲/youfanprofile/src/main/java/com/youfan/Test.java
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第00-59讲资料代码/第3讲/UserDao.xml]
+Bookmarks=
+Checksum=2b623b52013861534636af22ddee3f66a0b6ad42
+Encoding=ISO-8859-15
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,46,39.048
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第00-59讲资料代码/第3讲/UserDao.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第00-59讲资料代码/第3讲/mybatis-config.xml]
+Bookmarks=
+Checksum=c7f98149eab763bf077f428b6a0d681a016082f4
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,46,27.351
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第00-59讲资料代码/第3讲/mybatis-config.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/pom.xml]
+Bookmarks=
+Checksum=f70d2d51cc5cd055a3f342922183a0e447d3da08
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,49,28.062
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/pom.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/solrtest/pom.xml]
+Bookmarks=
+Checksum=3db1f17b4590c0c33768f089ae55fce22665824b
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,7,23,49,36.606
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/solrtest/pom.xml
+
+[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/solrtest/src/main/java/SolrUtil.java]
+Bookmarks=
+Checksum=71a0d5baf2c46c2ab444d10b8426c3b7cc63e897
+Encoding=UTF-8
+Highlighting=Java
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Java
+Mode Set By User=false
+Time=2021,7,7,23,49,54.328
+URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/solrtest/src/main/java/SolrUtil.java
+
+[file:///home/djt/arch/fonts/local.conf]
+Bookmarks=
+Checksum=5130e092c76abcc5b296707145880b2cc0ab8459
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,15,2,20,40.806
+URL=file:///home/djt/arch/fonts/local.conf
+
+[file:///home/djt/config.json]
+Bookmarks=
+Checksum=79276f62377c46b33cf9f379a722e063ec744562
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2021,7,13,23,47,46.946
+URL=file:///home/djt/config.json
+
+[file:///home/djt/java_error_in_idea_22755.log]
+Bookmarks=
+Checksum=491bfad76998d4acffbe62f9c0f27a9156dfdfa7
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2021,6,17,1,2,21.812
-URL=file:///home/djt/public.gpg
+Time=2021,7,13,22,50,34.697
+URL=file:///home/djt/java_error_in_idea_22755.log
 
 [file:///home/djt/smart.txt]
 Bookmarks=
@@ -118,6 +310,18 @@ Mode Set By User=false
 Time=2021,6,26,10,8,13.74
 URL=file:///home/djt/smart.txt
 
+[file:///opt/intellij-idea-ultimate-edition/bin/idea.svg]
+Bookmarks=
+Checksum=6c4be489db5966213e62d1a23525406be476bc11
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2021,7,21,16,25,56.515
+URL=file:///opt/intellij-idea-ultimate-edition/bin/idea.svg
+
 [file:///run/media/djt/U/Desktop/sub.txt]
 Bookmarks=
 Checksum=499c67f84b95151ed87e10b14ec9daf053e54233
@@ -130,14 +334,14 @@ Mode Set By User=false
 Time=2021,7,7,2,43,45.038
 URL=file:///run/media/djt/U/Desktop/sub.txt
 
-[mtp:/Pixel 3/Internal shared storage/Download/sub.txt]
+[file:///run/media/djt/WIRELESS NETWORK ADAPTER/Autorun.inf]
 Bookmarks=
-Checksum=93f6140f1a2a90c226487d5e975d6918cef9f0d0
-Encoding=UTF-8
-Highlighting=None
+Checksum=78801cd835a8ed9114b79c7a36c0e485facf14e1
+Encoding=GB18030
+Highlighting=Inform
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=Inform
 Mode Set By User=false
-Time=2021,6,17,10,55,39.152
-URL=mtp:/Pixel 3/Internal shared storage/Download/sub.txt
+Time=2021,7,11,12,23,12.547
+URL=file:///run/media/djt/WIRELESS NETWORK ADAPTER/Autorun.inf

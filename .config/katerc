@@ -70,7 +70,7 @@ Fallback Encoding=ISO 8859-15
 Animate Bracket Matching=false
 Auto Color Theme Selection=false
 Color Theme=Monokai
-Font=Roboto,18,-1,5,50,0,0,0,0,0
+Font=Microsoft YaHei,18,-1,5,50,0,0,0,0,0
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
@@ -121,6 +121,39 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KateSQLPlugin]
+SaveConnections=true
+
+[KateSQLPlugin][OutputCustomization][blob]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
+[KateSQLPlugin][OutputCustomization][bool]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
+[KateSQLPlugin][OutputCustomization][datetime]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
+[KateSQLPlugin][OutputCustomization][null]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
+[KateSQLPlugin][OutputCustomization][number]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
+[KateSQLPlugin][OutputCustomization][text]
+backgroundColor=27,30,32
+font=Roboto,12,-1,5,50,0,0,0,0,0
+foregroundColor=252,252,252
+
 [Konsole]
 AutoSyncronize=true
 KonsoleEscKeyBehaviour=true
@@ -132,7 +165,6 @@ SetEditor=false
 [MainWindow]
 eDP-1 Height 1536x864=796
 eDP-1 Width 1536x864=1536
-eDP-1 Window-Maximized 1536x864=true
 
 [filetree]
 editShade=183,220,246
