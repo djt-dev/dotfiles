@@ -130,18 +130,6 @@ Mode Set By User=false
 Time=2021,7,15,2,11,11.574
 URL=file:///home/djt/Downloads/fonts.conf
 
-[file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt]
-Bookmarks=
-Checksum=3e0aa83cd7a9a853c2ec9a70f5b7eef1cbb6b8ee
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2021,6,21,1,52,28.005
-URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/下载必看/下载必看.txt
-
 [file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/第00-59讲资料代码/第2讲/youfanshop/pom.xml]
 Bookmarks=
 Checksum=744e4bea4330daa90ef4681c5f03b70c50c85984
@@ -262,6 +250,18 @@ Mode Set By User=false
 Time=2021,7,7,23,49,54.328
 URL=file:///home/djt/Downloads/从无到有构建大型电商微服务架构/从无到有构建大型电商微服务架构（第一阶段）/资料/第一阶段最终代码/第一阶段最终代码/youfanshop/solrtest/src/main/java/SolrUtil.java
 
+[file:///home/djt/Dropbox/Configuration/v2ray/v2ray-config.json]
+Bookmarks=
+Checksum=e530f1bfe56a9e912cbf69af1f23efce0927d25c
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2021,7,24,1,57,56.577
+URL=file:///home/djt/Dropbox/Configuration/v2ray/v2ray-config.json
+
 [file:///home/djt/arch/fonts/local.conf]
 Bookmarks=
 Checksum=5130e092c76abcc5b296707145880b2cc0ab8459
@@ -276,14 +276,14 @@ URL=file:///home/djt/arch/fonts/local.conf
 
 [file:///home/djt/config.json]
 Bookmarks=
-Checksum=79276f62377c46b33cf9f379a722e063ec744562
+Checksum=c71a5e7c49027cddfa344c456d7e9a64d8af127c
 Encoding=UTF-8
 Highlighting=JSON
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=JSON
 Mode Set By User=false
-Time=2021,7,13,23,47,46.946
+Time=2021,7,24,1,57,56.577
 URL=file:///home/djt/config.json
 
 [file:///home/djt/java_error_in_idea_22755.log]
