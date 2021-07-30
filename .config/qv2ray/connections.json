@@ -1,0 +1,76 @@
+{
+    "irzofknxglhd": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s4.jamjams.net:19232",
+        "lastConnected": 1627345441,
+        "lastUpdatedDate": 1627198529,
+        "latency": 67,
+        "stats": [
+            {
+                "downLinkData": 534055659,
+                "upLinkData": 7716431
+            },
+            {
+                "downLinkData": 502514025,
+                "upLinkData": 7603787
+            },
+            {
+                "downLinkData": 44836456,
+                "upLinkData": 593135
+            },
+            {
+            }
+        ]
+    },
+    "lyazrqewnifh": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s5.jamjams.net:19232",
+        "lastConnected": 0,
+        "lastUpdatedDate": 1627198529,
+        "latency": 192
+    },
+    "pddbvkwjxzbe": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s3.jamjams.net:19232",
+        "lastConnected": 1627568630,
+        "lastUpdatedDate": 1627198529,
+        "latency": 160,
+        "stats": [
+            {
+                "downLinkData": 10440061713,
+                "upLinkData": 130417272
+            },
+            {
+                "downLinkData": 9145965995,
+                "upLinkData": 137917254
+            },
+            {
+                "downLinkData": 1528048105,
+                "upLinkData": 1761334
+            },
+            {
+            }
+        ]
+    },
+    "rrfdiyjawiox": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s801.jamjams.net:19232",
+        "lastConnected": 0,
+        "lastUpdatedDate": 1627198529,
+        "latency": 165
+    },
+    "xfekgnrfcjhp": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s1.jamjams.net:19232",
+        "lastConnected": 0,
+        "lastUpdatedDate": 1627198529,
+        "latency": 157
+    },
+    "ybwkwoilkbep": {
+        "creationDate": 1627198529,
+        "displayName": "JMS-324355@c18s2.jamjams.net:19232",
+        "lastConnected": 0,
+        "lastUpdatedDate": 1627198529,
+        "latency": 165
+    }
+}
