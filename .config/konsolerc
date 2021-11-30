@@ -1,5 +1,5 @@
 [Desktop Entry]
-DefaultProfile=Profile 1.profile
+DefaultProfile=Profile 2.profile
 
 [FileLocation]
 scrollbackUseCacheLocation=true
@@ -7,15 +7,15 @@ scrollbackUseSystemLocation=false
 
 [MainWindow]
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAABgAAAALGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAACBv////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABAAAAAG+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAAD2P////8AAAAAAAAAAA==
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-eDP-1 Height 1536x864=513
-eDP-1 Height 1920x1080=641
+eDP-1 Height 1536x864=522
+eDP-1 Height 1920x1080=1007
 eDP-1 Width 1536x864=1024
-eDP-1 Width 1920x1080=1280
-eDP-1 Window-Maximized 1536x864=true
-eDP-1 XPosition 1536x864=284
-eDP-1 XPosition 1920x1080=288
-eDP-1 YPosition 1536x864=98
-eDP-1 YPosition 1920x1080=107
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1536x864=256
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1536x864=168
+eDP-1 YPosition 1920x1080=29
