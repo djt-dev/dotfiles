@@ -1,110 +1,76 @@
 {
-    "alnwbuphumab": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s1.jamjams.net:21197",
-        "lastConnected": 1639398906,
-        "lastUpdatedDate": 1639328816,
-        "latency": 167,
+    "ailyfpduatcf": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s4.jamjams.net:29369",
+        "lastConnected": 140736093352896,
+        "lastUpdatedDate": 1641256398,
+        "latency": 122
+    },
+    "cpsprjhowsme": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s3.jamjams.net:29369",
+        "lastConnected": 1641348610,
+        "lastUpdatedDate": 1641256398,
+        "latency": 232,
         "stats": [
             {
-                "downLinkData": 6824,
-                "upLinkData": 9724
+                "downLinkData": 6741066992,
+                "upLinkData": 3445612966
             },
             {
-                "downLinkData": 6842,
-                "upLinkData": 8415
+                "downLinkData": 6853991207,
+                "upLinkData": 2465316648
             },
             {
+                "downLinkData": 65253724,
+                "upLinkData": 1049706812
             },
             {
             }
         ]
     },
-    "dwmiomooorkq": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s4.jamjams.net:21197",
-        "lastConnected": 1639404441,
-        "lastUpdatedDate": 1639328816,
-        "latency": 68,
+    "ncmoqhrcyqob": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s2.jamjams.net:29369",
+        "lastConnected": 1641275438,
+        "lastUpdatedDate": 1641256398,
+        "latency": 214,
         "stats": [
             {
+                "downLinkData": 1465425436,
+                "upLinkData": 4259966
             },
             {
+                "downLinkData": 1472549120,
+                "upLinkData": 4742587
             },
             {
+                "downLinkData": 1102502,
+                "upLinkData": 37987
             },
             {
             }
         ]
     },
-    "gnnuwnbvnsxk": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s5.jamjams.net:21197",
-        "lastConnected": 0,
-        "lastUpdatedDate": 1639328816,
-        "latency": 180
+    "ovmfnzdehpby": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s1.jamjams.net:29369",
+        "lastConnected": 140736093352896,
+        "lastUpdatedDate": 1641256398,
+        "latency": 216
     },
-    "kasidoqfsldv": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s3.jamjams.net:21197",
-        "lastConnected": 1639415384,
-        "lastUpdatedDate": 1639328816,
-        "latency": 164,
-        "stats": [
-            {
-                "downLinkData": 22920644150,
-                "upLinkData": 103350678154
-            },
-            {
-                "downLinkData": 22598065617,
-                "upLinkData": 106454638908
-            },
-            {
-                "downLinkData": 918709285,
-                "upLinkData": 8632550
-            },
-            {
-            }
-        ]
+    "pmjiytwiybvv": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s801.jamjams.net:29369",
+        "lastConnected": 140736093352896,
+        "lastUpdatedDate": 1641256398,
+        "latency": 272
     },
-    "shvqwqhbjdll": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s801.jamjams.net:21197",
-        "lastConnected": 1639406058,
-        "lastUpdatedDate": 1639328816,
-        "latency": 166,
-        "stats": [
-            {
-                "downLinkData": 47108010347,
-                "upLinkData": 31387357
-            },
-            {
-                "downLinkData": 48403182691,
-                "upLinkData": 33091299
-            },
-            {
-            },
-            {
-            }
-        ]
-    },
-    "zanqmilurzgn": {
-        "creationDate": 1639328816,
-        "displayName": "JMS-431769@c56s2.jamjams.net:21197",
-        "lastConnected": 1639398894,
-        "lastUpdatedDate": 1639328816,
-        "latency": 164,
-        "stats": [
-            {
-                "downLinkData": 192,
-                "upLinkData": 8819
-            },
-            {
-            },
-            {
-            },
-            {
-            }
-        ]
+    "rorugbgolwgj": {
+        "creationDate": 1641256398,
+        "displayName": "JMS-431769@c56s5.jamjams.net:29369",
+        "lastConnected": 140736093352896,
+        "lastUpdatedDate": 1641256398,
+        "latency": 259
     }
 }

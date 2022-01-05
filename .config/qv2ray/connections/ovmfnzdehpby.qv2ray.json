@@ -8,10 +8,10 @@
             "settings": {
                 "servers": [
                     {
-                        "address": "23.105.214.197",
+                        "address": "144.168.61.63",
                         "method": "aes-256-gcm",
                         "password": "XB9Xj5EXtsn5ZwbA",
-                        "port": 21197
+                        "port": 29369
                     }
                 ]
             },

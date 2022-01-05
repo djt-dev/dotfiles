@@ -8,8 +8,8 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "174.137.48.137",
-                        "port": 21197,
+                        "address": "104.255.67.162",
+                        "port": 29369,
                         "users": [
                             {
                                 "alterId": 8,
