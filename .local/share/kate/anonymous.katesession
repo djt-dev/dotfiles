@@ -6,10 +6,30 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-URL=file:///home/djt/wget-log
+URL=file:///home/djt/Desktop/素材/斗魂卫/斗魂卫文案.txt
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/djt/Desktop/youtube订阅.txt
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/djt/Desktop/youtube-tags
 
 [Kate Plugins]
-cuttlefishplugin=false
+compilerexplorer=false
 externaltoolsplugin=true
 katebacktracebrowserplugin=false
 katebuildplugin=false
@@ -21,7 +41,6 @@ katefiletreeplugin=true
 kategdbplugin=false
 kategitblameplugin=false
 katekonsoleplugin=true
-kateopenheaderplugin=false
 kateprojectplugin=true
 katereplicodeplugin=false
 katesearchplugin=true
@@ -31,17 +50,18 @@ katesymbolviewerplugin=false
 katexmlcheckplugin=false
 katexmltoolsplugin=false
 ktexteditorpreviewplugin=false
+latexcompletionplugin=false
 lspclientplugin=false
 tabswitcherplugin=true
 textfilterplugin=true
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,1506,200
-Kate-MDI-Sidebar-0-Splitter=0,0,0,0
-Kate-MDI-Sidebar-1-Splitter=
-Kate-MDI-Sidebar-2-Splitter=
-Kate-MDI-Sidebar-3-Splitter=0,0,0,0
+Kate-MDI-H-Splitter=200,1885,200
+Kate-MDI-Sidebar-0-Splitter=0,0,0,0,0
+Kate-MDI-Sidebar-1-Splitter=0
+Kate-MDI-Sidebar-2-Splitter=0
+Kate-MDI-Sidebar-3-Splitter=0,0,0,0,0
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
@@ -76,35 +96,41 @@ Kate-MDI-ToolView-output-Persistent=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Sidebar-Position=0
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=150,769,200
+Kate-MDI-V-Splitter=150,960,200
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABgAAAAMfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1 Window-Maximized 1536x864=true
-eDP-1 XPosition 1536x864=0
-eDP-1 YPosition 1536x864=30
+eDP1 Window-Maximized 1920x1080=true
 
 [MainWindow0 Settings]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABgAAAAMfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 WindowState=10
-eDP-1 Window-Maximized 1536x864=true
-eDP-1 XPosition 1536x864=0
-eDP-1 YPosition 1536x864=30
+eDP1 Window-Maximized 1920x1080=true
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=1506
+Sizes=1885
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/djt/wget-log
-Count=1
-Documents=file:///home/djt/wget-log
-View 0=file:///home/djt/wget-log
+Active View=file:///home/djt/Desktop/素材/斗魂卫/斗魂卫文案.txt
+Count=3
+Documents=file:///home/djt/Desktop/素材/斗魂卫/斗魂卫文案.txt,file:///home/djt/Desktop/youtube订阅.txt,file:///home/djt/Desktop/youtube-tags
+View 0=file:///home/djt/Desktop/素材/斗魂卫/斗魂卫文案.txt
+View 1=file:///home/djt/Desktop/youtube订阅.txt
+View 2=file:///home/djt/Desktop/youtube-tags
 
-[MainWindow0-ViewSpace 0 file:///home/djt/wget-log]
+[MainWindow0-ViewSpace 0 file:///home/djt/Desktop/youtube-tags]
+CursorColumn=21
+CursorLine=9
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/djt/Desktop/youtube订阅.txt]
 CursorColumn=0
 CursorLine=0
 Dynamic Word Wrap=true
@@ -112,8 +138,16 @@ JumpList=
 TextFolding=[]
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/djt/Desktop/素材/斗魂卫/斗魂卫文案.txt]
+CursorColumn=0
+CursorLine=19
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
 [Open Documents]
-Count=1
+Count=3
 
 [Open MainWindows]
 Count=1
@@ -151,23 +185,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Docker-use.txt
-File10[$e]=$HOME/wget-log
-File2[$e]=$HOME/Documents/bbs/pom.xml
-File3[$e]=$HOME/Documents/bbs/src/思路.txt
-File4[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
-File5[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
-File6[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
-File7[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
-File8[$e]=$HOME/Documents/v2ray-config.json
-File9[$e]=$HOME/Documents/redis.service
-Name1[$e]=Docker-use.txt
-Name10[$e]=wget-log
-Name2[$e]=pom.xml
-Name3[$e]=思路.txt
-Name4[$e]=email.properties
-Name5[$e]=jdbc.properties
-Name6[$e]=UserController.java
-Name7[$e]=CmtGroupCtl.java
-Name8[$e]=v2ray-config.json
-Name9[$e]=redis.service
+File1[$e]=$HOME/Documents/bbs/src/main/resources/email.properties
+File10[$e]=$HOME/Desktop/素材/斗魂卫/斗魂卫文案.txt
+File2[$e]=$HOME/Documents/bbs/src/main/resources/jdbc.properties
+File3[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/UserController.java
+File4[$e]=$HOME/Documents/bbs/src/main/java/com/bbs/controller/CmtGroupCtl.java
+File5[$e]=$HOME/Documents/v2ray-config.json
+File6[$e]=$HOME/Documents/redis.service
+File7[$e]=$HOME/Desktop/魁拔
+File8[$e]=$HOME/Desktop/youtube订阅.txt
+File9[$e]=$HOME/Desktop/youtube-tags
+Name1[$e]=email.properties
+Name10[$e]=斗魂卫文案.txt
+Name2[$e]=jdbc.properties
+Name3[$e]=UserController.java
+Name4[$e]=CmtGroupCtl.java
+Name5[$e]=v2ray-config.json
+Name6[$e]=redis.service
+Name7[$e]=魁拔
+Name8[$e]=youtube订阅.txt
+Name9[$e]=youtube-tags

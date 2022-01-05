@@ -129,6 +129,7 @@ SetEditor=false
 [MainWindow]
 eDP-1 Window-Maximized 1536x864=true
 eDP1 Window-Maximized 1536x864=true
+eDP1 Window-Maximized 1920x1080=true
 
 [UiSettings]
 ColorScheme=Default
